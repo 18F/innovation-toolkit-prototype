@@ -1,7 +1,7 @@
-# Digital Acquisitions Accelerator Playbook
-This playbook provides guidelines on how to approach digital acquistions within your agency. The playbook is broken down by first defining digital acquisitions, detailing out the phases of a digital acguisition, and then providing primers on a few key modern digital practices. You'll learn about the importance of building cross-functional teams, how to create a product strategy before solicitation, and this will provide an overview on agile, lean, human-centered design, open innovation, and modular contracting.
+# Innovation Toolkit
+This Toolkit is created in partnership with the GSA Technology Transformation Service Office of Products and Platforms Innovation Portfolio. It was created to be the location to capture the innovation knowledge of the government. It consists of three main areas: 1) Innovation Definition; 2) Culture of Innnovation; and 3) Innovation Stories. 
 
-This playbook is a complement to the U.S. Digital Services Playbook and the TechFar.
+This Toolkit was first announced in the Obama Administration's "Strategy for American Innovation" in 2015. This is meant to be a dynamic product that changes with the current trends and needs of the government workforce. If you have thoughts on, or changes/additions to this toolkit, please email us at Innovation_Toolkit@gsa.gov.
 
 This playbook is a set of markdown files and is published to the web using [18F Pages](https://github.com/18F/pages/).
 
