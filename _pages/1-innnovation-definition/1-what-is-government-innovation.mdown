@@ -25,31 +25,31 @@ When creating a culture of innovation within the Federal government, we’ve out
 
 * **Design for the citizen.** As "public servants", each member of the Federal government should have a singular user in mind for its products and services--the American citizen. The type of citizen may vary by agency or team, but the basic principle stays that same.
 
-* **Listen more, talk less. **Often, we assume that we know the solution to citizens’ problems, but rarely take the time to listen to their concerns. Key insights are gained from listening to others and talking less ourselves.
+* **Listen more, talk less.** Often, we assume that we know the solution to citizens’ problems, but rarely take the time to listen to their concerns. Key insights are gained from listening to others and talking less ourselves.
 
-* **Celebrate empathy, openness & honesty. **To design for the citizen first it involves putting yourself in her shoes to see the world from her perspective, but also getting out and talking to her to find out her needs and wants. Good relationships are built on openness and honesty.
+* **Celebrate empathy, openness & honesty.** To design for the citizen first it involves putting yourself in her shoes to see the world from her perspective, but also getting out and talking to her to find out her needs and wants. Good relationships are built on openness and honesty.
 
 * **Radical collaboration to evolve citizen engagement.** Joy's law is the principle that "no matter who you are, most of the smartest people work for someone else." As the world and technology become more interconnected we no longer can deny that problems can be solved by a one person or a small group of people. Collaborative skills have never been more important, and these skills are absolutely necessary to solve the biggest problems our country faces. 
 
 ### Infuse Innovation into the Culture
 
-* **Embrace ambiguity, creativity & flexibility. **Often, when you’re creating new value as in innovation, there will not be a clear path ahead. Forging new ground requires being comfortable with not knowing where the path will lead you, and a big dose of creativity to be flexible with the outcome and agile in the process of creation.
+* **Embrace ambiguity, creativity & flexibility.** Often, when you’re creating new value as in innovation, there will not be a clear path ahead. Forging new ground requires being comfortable with not knowing where the path will lead you, and a big dose of creativity to be flexible with the outcome and agile in the process of creation.
 
 * **Bias to action.** Sometimes in the process of empathy building a creating there’s a tendency to stay in design mode, resulting in "analysis paralysis". Frequently look for ways to move the needle forward--to create more value.
 
-* **Focus on individual accountability. **The innovation movement as a whole is only as powerful as the people within it. Focus on each individual’s growth, creativity, and ideas to change their mindset to innovation. The entire system will succeed. 
+* **Focus on individual accountability.** The innovation movement as a whole is only as powerful as the people within it. Focus on each individual’s growth, creativity, and ideas to change their mindset to innovation. The entire system will succeed. 
 
-* **Create a culture of experimentation. **Probably the most widely-used core innovation principle, this is simply being open to the idea of trying new things, and also being okay with failing with some ideas and succeeding in others.
+* **Create a culture of experimentation.** Probably the most widely-used core innovation principle, this is simply being open to the idea of trying new things, and also being okay with failing with some ideas and succeeding in others.
 
-* **Build-Measure-Learn. **This three-legged loop is the core of creating new value within Lean Startup methods and in government. Understand the user through feedback loops and build your technology, product or process with that user or users in mind, measure its progress, and learn from your users on how you’re doing. Repeat. 
+* **Build-Measure-Learn.** This three-legged loop is the core of creating new value within Lean Startup methods and in government. Understand the user through feedback loops and build your technology, product or process with that user or users in mind, measure its progress, and learn from your users on how you’re doing. Repeat. 
 
-* **Fail often, fail fast. **A core principle of Lean methodology and linked to a culture of experimentation--when you’re creating new value you want to learn and quickly as possible so that you can build the best possible solution faster 
+* **Fail often, fail fast.** A core principle of Lean methodology and linked to a culture of experimentation--when you’re creating new value you want to learn and quickly as possible so that you can build the best possible solution faster 
 
 * **Lead a strategy of subtraction, not always of addition.** Creating new value doesn’t always creating something NEW. It could mean taking multiple products, services, or processes and combining them into one that eliminates redundancies or removing a process that impedes the flow of other components in a system. Look at both options when making decisions.
 
 * **Kill off projects that aren’t performing well to make room for projects that will.** Sometimes creating new value is sunsetting or "killing" some projects or outdated infrastructure to make ways for others. Money and resources from those projects could be repurposed to create something that works. 
 
-* **Incentivize for product or service improvement. **Simply put, many people within a system will innovate unless there’s a clear incentive for them to do so. Think of ways that would incentivize teams to action, which can include including innovation into performance evaluations, monetary or non-cash options that would create a sense of urgency.
+* **Incentivize for product or service improvement.** Simply put, many people within a system will innovate unless there’s a clear incentive for them to do so. Think of ways that would incentivize teams to action, which can include including innovation into performance evaluations, monetary or non-cash options that would create a sense of urgency.
 
 ## Why Innovate? 
 
@@ -71,11 +71,11 @@ Over years of research, Rogers identified traits of specific groups in a larger 
 
 * **Early Adopters (13.5%)**: This is the second fastest category of individuals who adopt an innovation. These individuals have the highest degree of opinion leadership among the other adopter categories. Early adopters are typically younger in age, have a higher social status, have more financial lucidity, advanced education, and are more socially forward than late adopters. More discrete in adoption choices than innovators. Realize judicious choice of adoption will help them maintain central communication position ([Rogers 1962 5th ed](http://en.wikipedia.org/wiki/Diffusion_of_innovations#CITEREFRogers1962_5th_ed), p. 283).
 
-* **Early Majority (34%): **Individuals in this category adopt an innovation after a varying degree of time. This time of adoption is significantly longer than the innovators and early adopters. Early Majority tend to be slower in the adoption process, have above average social status, contact with early adopters, and seldom hold positions of opinion leadership in a system ([Rogers 1962 5th ed](http://en.wikipedia.org/wiki/Diffusion_of_innovations#CITEREFRogers1962_5th_ed), p. 283)
+* **Early Majority (34%):** Individuals in this category adopt an innovation after a varying degree of time. This time of adoption is significantly longer than the innovators and early adopters. Early Majority tend to be slower in the adoption process, have above average social status, contact with early adopters, and seldom hold positions of opinion leadership in a system ([Rogers 1962 5th ed](http://en.wikipedia.org/wiki/Diffusion_of_innovations#CITEREFRogers1962_5th_ed), p. 283)
 
-* **Late Majority (34%): **Individuals in this category will adopt an innovation after the average member of the society. These individuals approach an innovation with a high degree of skepticism and after the majority of society has adopted the innovation. Late Majority are typically skeptical about an innovation, have below average social status, very little financial lucidity, in contrast with others in late majority and early majority, very little opinion leadership.
+* **Late Majority (34%):** Individuals in this category will adopt an innovation after the average member of the society. These individuals approach an innovation with a high degree of skepticism and after the majority of society has adopted the innovation. Late Majority are typically skeptical about an innovation, have below average social status, very little financial lucidity, in contrast with others in late majority and early majority, very little opinion leadership.
 
-* **Laggards (16%): **Individuals in this category are the last to adopt an innovation. Unlike some of the previous categories, individuals in this category show little to no opinion leadership. These individuals typically have an aversion to change-agents and tend to be advanced in age. Laggards typically tend to be focused on "traditions", likely to have lowest social status, lowest financial fluidity, be oldest of all other adopters, in contact with only family and close friends, very little to no opinion leadership.
+* **Laggards (16%):** Individuals in this category are the last to adopt an innovation. Unlike some of the previous categories, individuals in this category show little to no opinion leadership. These individuals typically have an aversion to change-agents and tend to be advanced in age. Laggards typically tend to be focused on "traditions", likely to have lowest social status, lowest financial fluidity, be oldest of all other adopters, in contact with only family and close friends, very little to no opinion leadership.
 
 Departments and agencies are at different points along the adoption curve, but evidence from multiple sources points to a few key structural elements of successful approaches to increase awareness, adoption, and adaptation of innovation within government.** **These include:
 
