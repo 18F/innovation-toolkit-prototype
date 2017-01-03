@@ -35,29 +35,29 @@ How can agencies attract top talent on a temporary basis?  Domain experts and ou
 
 ## Fellowships and Industry Exchange Programs Hiring Authority (5 CFR 213.3102 (r))
 
-The Fellowships and Industry Exchange Programs hiring authority** **is a Government-wide excepted service hiring authority under 5 CFR 213.3102(r) that can be used to hire for fellowships and similar programs when recruitment is from limited applicant pools. It is sometimes referred to as the ‘r’ authority. Below is the OPM guidance:
+**The Fellowships and Industry Exchange Programs hiring authority is a Government-wide excepted service hiring authority under 5 CFR 213.3102(r) that can be used to hire for fellowships and similar programs when recruitment is from limited applicant pools. It is sometimes referred to as the ‘r’ authority. Below is the OPM guidance:
 
 **Purpose**: The "r" authority can be used for fellowships and similar programs when recruitment is from limited applicant pools. This authority supports professional/industry exchange programs that provide for cross fertilization between industry and the private sector to foster mutual understanding, an exchange of ideas, or bring experienced people into government.
 
-**Type of Appointment: **Appointments under this authority are in the excepted service (i.e. Schedule A).
+**Type of Appointment:** Appointments under this authority are in the excepted service (i.e. Schedule A).
 
-**Public Notice Requirement: **There is no requirement for a job announcement (public notice) prior to filling a position and agencies may advertise in order to broaden the applicant pool.
+**Public Notice Requirement:** There is no requirement for a job announcement (public notice) prior to filling a position and agencies may advertise in order to broaden the applicant pool.
 
-**Veteran’s Preference: **Veterans’ preference applies when filling jobs.
+**Veteran’s Preference:** Veterans’ preference applies when filling jobs.
 
-**Qualifications: **Applicants must meet qualification standards developed by the agency which employs them (i.e., no government-wide qualification standard.
+**Qualifications:** Applicants must meet qualification standards developed by the agency which employs them (i.e., no government-wide qualification standard.
 
-**Grade Levels and Compensation: **There is no grade level limitation on appointments (i.e., can go up to GS 15 level). Appointees are paid in accordance with commensurate grade level. Agencies may also use SL for this authority, IF the agency has the allocation and it has been determined that the work to be performed is classifiable above the GS-15 level. There are no restrictions on the types of positions to which employees may be appointed.
+**Grade Levels and Compensation:** There is no grade level limitation on appointments (i.e., can go up to GS 15 level). Appointees are paid in accordance with commensurate grade level. Agencies may also use SL for this authority, IF the agency has the allocation and it has been determined that the work to be performed is classifiable above the GS-15 level. There are no restrictions on the types of positions to which employees may be appointed.
 
-**Length of Appointment: **Appointments limited to up to 4 years, and do not lead to a permanent job.
+**Length of Appointment:** Appointments limited to up to 4 years, and do not lead to a permanent job.
 
-**Benefits/Leave: **If appointed for more than 1 year employees can earn health and life insurance.
+**Benefits/Leave:** If appointed for more than 1 year employees can earn health and life insurance.
 
 Everyone appointed for at least 90 days, can earn sick and annual leave.
 
-**OPM Approval: **OPM does not have to approve appointments made under the "r" authority (i.e., each agency does its own hiring). 
+**OPM Approval:** OPM does not have to approve appointments made under the "r" authority (i.e., each agency does its own hiring). 
 
-**"r" Authority vs. Pathways: **The “r” authority is appropriate when recruitment is expected to be from limited applicant pools, or the aim is to infuse talent on a short-term basis from private industry. Pathways is designed to be much broader in scope in terms of recruitment, and the fellows appointed under Pathways are recruited to be future leaders.
+**"r" Authority vs. Pathways:** The “r” authority is appropriate when recruitment is expected to be from limited applicant pools, or the aim is to infuse talent on a short-term basis from private industry. Pathways is designed to be much broader in scope in terms of recruitment, and the fellows appointed under Pathways are recruited to be future leaders.
 
 ## Frequently Asked Questions
 
@@ -305,9 +305,9 @@ PIF’s experiences have found that agency champions are key for successful coll
 
 **Contact:** Agencies interested in engaging the Presidential Innovation Fellows should email Nathan Olson, Acting Director of the PIF program, at Nathan.olson@gsa.gov
 
-**Read more:**[ Meet the Presidential Innovation Fellows](https://medium.com/the-white-house/meet-the-presidential-innovation-fellows-194dec20442b%23.k8dx1gpqp)
+**Read more:** [Meet the Presidential Innovation Fellows](https://medium.com/the-white-house/meet-the-presidential-innovation-fellows-194dec20442b%23.k8dx1gpqp)
 
-**Watch:**[ Innovation Fellows talk about their projects](https://presidentialinnovationfellows.gov/assets/videos/andrea-ippolito-video.webm) [1:28]
+**Watch:** [Innovation Fellows talk about their projects](https://presidentialinnovationfellows.gov/assets/videos/andrea-ippolito-video.webm) [1:28]
 
 #### Presidential Executive Fellows (PEx) 
 
@@ -399,7 +399,7 @@ Several flexible hiring authorities exist, including the Intergovernmental Perso
 
 4. **Residency programs** through which participants gain experience in a Federal clinical environment; 
 
-5. **Programs that require a period of Government service in exchange for educational, financial or other assistance.  ****[[link to IDA report – ask VP]]**
+5. **Programs that require a period of Government service in exchange for educational, financial or other assistance.**** [[link to IDA report – ask VP]]**
 
 In the evaluation process, consider using[ HRU’s Hiring Decision Tool](https://hru.gov/Studio_Recruitment/HT_Hiring_Decision_Tool.aspx); the interactive questionnaire can help match potential hiring flexibilities with your agency's needs. 
 
@@ -445,7 +445,7 @@ Active recruiting is not considered innovative in the private sector; it’s con
 
 4. **Build relationships with target individuals. **Invest time in sourcing: Use web resources to identify ideal candidates, including the best in the country – regardless of whether they’re job searching.  Initiate contact, present the opportunity, and convey the operating conditions as well as also the amount of impact that is possible.
 
-5. **Communicate candidly, directly and consistently via media and local recruiting events. **Events like demo days and roundtables are key for persuading top talent to consider a public service tour of duty; their mechanics are explained further below. 
+5. **Communicate candidly, directly and consistently via media and local recruiting events.** Events like demo days and roundtables are key for persuading top talent to consider a public service tour of duty; their mechanics are explained further below. 
 
 6. **Create a responsive and strong candidate experience from time of application to first day of work.**
 
