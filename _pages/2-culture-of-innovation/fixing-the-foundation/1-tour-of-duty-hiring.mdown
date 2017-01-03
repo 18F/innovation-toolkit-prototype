@@ -239,15 +239,15 @@ USDS has captured what they’ve learned so far from the iterative development o
 
 USDS’ knowledge on developing a streamlined hiring process can be distilled into four elements:
 
-1. **Recruiting: **Actively recruit qualified individuals to apply, with a variety of targeted communications and outreach activities.
+1. **Recruiting:** Actively recruit qualified individuals to apply, with a variety of targeted communications and outreach activities.
 
-2. **Selection: **Build a selection process that uses technical subject matter expert evaluation at every single stage of the applicant assessment.
+2. **Selection:** Build a selection process that uses technical subject matter expert evaluation at every single stage of the applicant assessment.
 
-3. **Candidate Experience: **Prioritize candidate experience by making it easy to apply, quickly processing incoming applications and hires, and frequently communicating with applicants.
+3. **Candidate Experience:** Prioritize candidate experience by making it easy to apply, quickly processing incoming applications and hires, and frequently communicating with applicants.
 
 4. **Data driven decisions:** Collect relevant data throughout each of these three areas, benchmark it against industry, and use the data to identify bottlenecks and hold ourselves accountable. [Directly sourced language: USDS case study draft]
 
-**Read more:****[** ](https://medium.com/the-u-s-digital-service/two-years-of-the-u-s-digital-service-e14af5ce713b%23.jizieatg1)
+**Read more:****(https://medium.com/the-u-s-digital-service/two-years-of-the-u-s-digital-service-e14af5ce713b%23.jizieatg1)
 
 * [The First 2 Years of USDS](https://medium.com/the-u-s-digital-service/two-years-of-the-u-s-digital-service-e14af5ce713b%23.jizieatg1)
 
