@@ -1,5 +1,5 @@
 # Innovation Toolkit
-This Toolkit is created in partnership with the GSA Technology Transformation Service Office of Products and Platforms Innovation Portfolio. It was created to be the location to capture the innovation knowledge of the government. It consists of three main areas: 1) Innovation Definition; 2) Culture of Innnovation; and 3) Innovation Stories. 
+This Toolkit is created in partnership with the GSA Technology Transformation Service Office of Products and Programs Innovation Portfolio. It was created to be the location to capture the innovation knowledge of the government. It consists of three main areas: 1) Innovation Definition; 2) Culture of Innnovation; and 3) Innovation Stories. 
 
 This Toolkit was first announced in the Obama Administration's "Strategy for American Innovation" in 2015. This is meant to be a dynamic product that changes with the current trends and needs of the government workforce. If you have thoughts on, or changes/additions to this toolkit, please email us at Innovation_Toolkit@gsa.gov.
 
