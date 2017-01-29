@@ -10,8 +10,10 @@ The Better Government Through Innovation Toolkit exists to foster the awareness,
 
 This Better Government Toolkit Through Innovation toolkit exists to be a shared service for the Federal government to help serve the American people. This Toolkit exists to:
 
-*Improve government effectiveness
-*Increase agility of government
-*Deliver better results at a lower cost
-*Improve core processes
-*Improve the government's ability to solve problems
+<ul>
+<li>Improve government effectiveness</li>
+<li>Increase agility of government</li>
+<li>Deliver better results at a lower cost</li>
+<li>Improve core processes</li>
+<li>Improve the government's ability to solve problems</li>
+
