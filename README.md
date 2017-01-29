@@ -1,4 +1,4 @@
-# Better Government Toolkit
+# Innovation Toolkit
 This Toolkit is created in partnership with the GSA Technology Transformation Service Office of Products and Platforms Innovation Portfolio. It was created to be the location to capture the innovation knowledge of the government. It consists of three main areas: 1) Innovation Definition; 2) Culture of Innnovation; and 3) Innovation Stories. 
 
 This Toolkit was first announced in the Obama Administration's "Strategy for American Innovation" in 2015. This is meant to be a dynamic product that changes with the current trends and needs of the government workforce. If you have thoughts on, or changes/additions to this toolkit, please email us at Innovation_Toolkit@gsa.gov.
@@ -6,7 +6,7 @@ This Toolkit was first announced in the Obama Administration's "Strategy for Ame
 This playbook is a set of markdown files and is published to the web using [18F Pages](https://github.com/18F/pages/).
 
 # To file an issue / correction
-Click [this link](https://github.com/18F/innovation-toolkit-prototype/issues/new)!
+Click [this link](https://github.com/18F/daap-playbook/issues/new?title=Playbook%20Issue%20(edit%20this%20title!)&body=_Filed%20from%20the%2018F%20README_%0A%0A%20The%20problem%20and%20impacted%20users%3A%0A%0A%20Idea%20to%20address%20the%20problem%3A)!
 
 ### Public domain
 
