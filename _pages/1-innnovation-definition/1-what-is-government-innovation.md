@@ -1,6 +1,8 @@
 ---
 title: What is Government Innovation?
+issue: 2
 ---
+
 # What is Government Innovation?
 
 When government works better, lives are improved and civic confidence grows. In order for government to work better, the practices of government must continually improve and evolve. In other words, government must continually innovate. Rapid social and technological changes intensify the imperative of innovation. Addressing unique challenges and opportunities of 21st century, like the governance of emerging technologies and increased global interdependence, will require innovation. This imperative is enhanced by three specific revolutions that are occurring within parallel, and driving forward innovation in the public sector: Data, digital, and design.
