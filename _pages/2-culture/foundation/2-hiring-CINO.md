@@ -2,8 +2,6 @@
 title: Hiring a Chief Innovation Officer
 issue: 6
 ---
-#Hiring a Chief Innovation Officer
-
 Whether leadership is tasked with confronting emerging, novel challenges or improving the efficiency of decades-old service delivery processes, Departments and agencies can substantially benefit from the appointment of a Chief Innovation Officer (CINO) to be a catalyst for change. A CINO serves as a beacon for innovation, working to harness, foster, execute, and manage innovative ideas. In a 21st century agency, the role of CINO is no longer a luxury; finding and appointing effective CINOs is an essential priority for any agency focused on reaping the benefits of innovative practices.
 
 CINOs can be valuable assets for actualizing an agency’s priorities, from leading agency-wide initiatives; addressing employee engagement and culture change; tapping employee ideas in innovative ways; and in some contexts, leading efforts to change core underlying processes and improve performance and efficiency. Appointing a CINO returns persistent, high-value benefits for agency leadership: For those responsible for the broad swath of an organization’s management, chronically overloaded schedules and competing critical priorities come with territory. Appointing a person whose top priority is to focus on innovation and relentlessly drive it forward will tremendously amplify any senior leadership’s capacity for realizing an agency’s mission.
