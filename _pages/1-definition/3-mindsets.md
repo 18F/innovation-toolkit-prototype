@@ -3,8 +3,6 @@ title: Innovation Mindsets
 issue: 4
 ---
 
-#Innovation Definition: Mindsets Section Overview
-
 Mindsets are established sets of attitudes held by someone. Carol Dweck, a Stanford psychologist and author of the book [Mindset: The New Psychology of Success](http://www.amazon.com/exec/obidos/ASIN/0345472322/braipick-20) ([public library](http://www.worldcat.org/title/mindset-the-new-psychology-of-success/oclc/58546262&referer=brief_results)) studied the power of our beliefs, both conscious and unconscious, and how changing even the simplest of them can have profound impact on nearly every aspect of our lives.
 
 She found in her research two types of mindsets--a "fixed" or “growth” mindset. A “fixed mindset” assumes our character, intelligence, and creative ability are static which we can’t change in any meaningful way and success affirms this belief and thus rejects failure. A “growth mindset,” on the other hand, thrives on challenge and sees failure not as evidence of unintelligence but as a springboard for growth and for stretching our existing abilities. Thus, growth and learning about oneself happens through failure and iteration.
@@ -13,13 +11,13 @@ Since a fixed mindset is focused on static intelligence and growth mindset assum
 
 In this section you’ll find a few mindsets that are required to be more innovative. Over time we’ll add different mindsets to this section to further the growth and learning mindset mentality and to help you learn about new and emerging schools of thought. Here are links to the mindsets in this section:
 
-#Innovation Definition: Lean & Lean Startup Mindset
+## Innovation Definition: Lean & Lean Startup Mindset
 
 The use of "Lean Startup" processes is one particular methodology that can be adapted and applied to bring tangible impact a broad array of missions and agency-specific contexts. Pioneered by educator and serial entrepreneur Steve Blank, “Lean” is a conceptual framework for innovation, both as a matter of process improvement and of culture change. It’s a set of tools and a language for improving the effectiveness and efficiency of problem-solving that can be successfully applied to corporations and the government alike. 
 
 The idea of a "blueprint for innovation" might sound paradoxical at first. But those most familiar with Lean Startup have called it the “**scientific method for evidence-based innovation**” because of its structured, testable principles. [Andrea Kates] It has an established track record in producing improved outcomes in both the private and public sector. And philosophically, the concepts are deeply aligned with the drive to infuse evidence-based decisionmaking into government and the tiered approach of piloting, testing, and scaling up promising solutions.  [LINK to EBP content here]] 
 
-## Why Lean and Lean Startup?
+### Why Lean and Lean Startup?
 
 A startup is not just a place filled with twenty-somethings in Silicon Valley, observes Eric Ries, the author of the seminal book "[The Lean Startup](http://theleanstartup.com/book)." Rather, a startup is any** **“*human institution* designed to *deliver a new product or service* under conditions of *extreme uncertainty***.**” The concept has little to do with the size of an organization and its sector or industry. [[Startup Lessons Learned](http://www.slideshare.net/startuplessonslearned/2009-09-08-the-lean-startup-gov-20-summit-edition/14-Product_Development_at_Lean_Startupbr)] The term “startup” is instead a shorthand descriptor for a way of way of working that uses hypothesis-driven, incremental steps with “build, measure, learn” feedback loops to continually create improvements.  [[crosslink OODA content below]]
 
@@ -33,23 +31,23 @@ While the public sector is by no means a startup company, adopting effective Lea
 
 * Generate new ideas for improvement and build capacity for translating ideas into action
 
-## How Lean & Lean Startup are Applied
+### How Lean & Lean Startup are Applied
 
 At their core, Lean methods are about applying a collaborative, team-based approach to accelerate finding solutions to problems. The mindset stresses the importance of challenging assumptions and reacting quickly to new information, using hypothesis development and testing as part of "customer discovery." With its emphasis on the end-user, it has considerable overlap with human centered-design principles. [[LINK to HCD content]] Lean seeks a problem, then builds and iterates a solution. These principles can be applied to a very broad range of use cases; it’s not just for launching a business. Lean can be brought to bear in a range from activities, including program creation and management, procurement, and grantmaking. [LINK to further elaboration in D3]
 
 The approach offers a way for agencies and departments to deeply understand the problems and needs of their beneficiaries and stakeholders. Only by understanding all the stakeholders, deployment issues, costs, resources, and ultimate mission value, can agencies then rapidly iterate solutions while searching for "product-market fit" (a solution that’s best aligned to the needs of stakeholders). Dean Chang notes, “You have to figure out your customer segment and value proposition. That core principle translates everywhere. That works at HHS, that works at NSF, and I-Corps -- it translates everywhere, even if sometimes you need to change up the vocabulary a little bit.” 
 
-# Benefits of Lean & Lean Startup
+## Benefits of Lean & Lean Startup
 
 Any agency is capable of reaping the benefits of startup methods and culture in its own work. A startup culture is a valuable asset for Federal agencies to develop – not for the sake of following hyped trends, but because certain methods and ways of working  help all levels of the civil service to be better problem-solvers and to be more nimble and effective in pursuing their mission. In recent years some notable ‘startup’ agencies spun up, including[ 18F](https://18f.gsa.gov/),[ United States Digital Service](https://www.usds.gov/), and the[ Consumer Financial Protection Bureau](http://www.consumerfinance.gov/). Their early results demonstrate the value of incorporating some of the best private sector thinking on innovation into their public sector missions -- and their takeaways are applicable to a much broader range of agencies.
 
-## Benefits of Using this Mindset
+### Benefits of Using this Mindset
 
 Lean Startup thinking is a broadly and deeply useful framework for Federal work, regardless of an agency or department’s mission focus. "Despite the methodology’s name, in the long term some of its biggest payoffs may be gained by the *large* [entities] that embrace it," observed Steve Blank [[Harvard Business Review 2013](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1)]. By prototyping approaches that are responsive to stakeholder needs and incorporating feedback from user experiences, agencies can “fail fast” when experimenting with new programs and scale-up only the strongest and most effective ideas. **[****[NTSC 2012 mem**o](https://www.whitehouse.gov/sites/default/files/microsites/ostp/openinnovatortoolkit_nstcmemo.pdf)**]** Entrepreneurial thinking is a directly relevant skillset for program managers; “Entrepreneurship is a kind of management,” notes Ries. 
 
 Lean’s theory of change has also been validated in the marketplace, and investors (e.g., Venture Capital and Angel firms) are beginning to adopt this framework to evaluate the Investment Readiness Level of a business, akin to the way the Technology Readiness Level framework is used to evaluate the maturity of a developing technology.  [Interview with Marc Wynne]
 
-# How to Implement Lean & Lean Startup
+## How to Implement Lean & Lean Startup
 
 Because Lean Startup represents a framework for bring ordering to innovative problem-solving, the principles are applicable to a very broad range of use cases for agencies. It is a useful tool for the development of new programs, but its insights also have relevance for areas like procurement and grantmaking:
 
@@ -57,7 +55,7 @@ Because Lean Startup represents a framework for bring ordering to innovative pro
 
 * **Grantmaking: **Lean thinking also complements the recent push towards diffusing evidence-based grantmaking approaches. [LINK TO V2/EBP content] Simply put, one of the core tenets is the notion of feedback on what's working and not working. Traditionally, many grant programs lack fully developed feedback loops. Several grantmaking agencies have begun evaluating how to encourage grantees to adopt Lean principles and practices through their grant process; one example is the Office of Adolescent Health within HHS, where grantees in the[ Teen Pregnancy Prevention program](http://www.hhs.gov/ash/oah/oah-initiatives/teen_pregnancy/about/) have been asked to run their own ‘accelerator models’ that incorporate Lean Startup principles. Tiered grantmaking programs are structurally aligned with the idea of incorporating stakeholder feedback and iteration loops to respond to information about what’s working.
 
-# History of Lean Startup
+## History of Lean Startup
 
 Steve Blank had been a practitioner for more than 20 years as a successful, serial entrepreneur when he came to reflect that everything he’d ever been told about startups was wrong. Silicon Valley had told him that startups were mini-versions of large companies, and they should follow standard business plans with five year forecasts – but he knew from his own experience that this was wrong. "We didn’t have a language, let alone a methodology, that really focused on the start-search-and-execute process," he notes. In his time teaching, Blank also saw that business school students were missing a crucial element between the classroom theory and real-world practice. Specifically, he observed an unmet need for a framework and a language that prioritized customer interaction. It has since become an often-repeated truism that “No business plan survives first contact with customers.” (In other words, business strategies only succeed if they address what customers’ needs and wants.)  [Steve Blank interview]
 
@@ -71,7 +69,7 @@ Steve Blank had been a practitioner for more than 20 years as a successful, seri
 
 While Lean originated in the business world, some key insights are equally applicable to the public sector: No amount of careful and thoughtful advance planning can substitute for actual engagement with and feedback from a program’s stakeholders. 
 
-# How to Deploy Lean & Lean Startup
+## How to Deploy Lean & Lean Startup
 
 Key ingredients for deploying Lean methodologies include:
 
@@ -83,19 +81,19 @@ Key ingredients for deploying Lean methodologies include:
 
 * Strategic and creative thinking to integrate quick iteration with planning and budget cycles 
 
-## Reducing friction costs and embracing failure
+### Reducing friction costs and embracing failure
 
 Perhaps the most essential ingredient for achieving Silicon Valley results with Lean is also the toughest: Inculcating a willingness to accept and learn from failure. This is a natural tension to navigate, since for many programs, failure is not an acceptable outcome. The challenge for program managers and leadership alike is committing to processes of validated learning.  This includes deliberately creating smaller-scale experiments before full deployment, when failure still means a learning opportunity to course-correct and not a fatal consequence. 
 
-## Capacity building for effective implementation
+### Capacity building for effective implementation
 
 Incorporating Lean requires building up capacity – or providing the tools, training, and also an authorizing space for experimentation. It’s not enough to have high-level buy-in for agile or Lean practices, for example, without providing contracting officers with extensive support and training on what agile or Lean contracting actually means in practice.
 
-## Openness and adaptiveness to new ways of thinking 
+### Openness and adaptiveness to new ways of thinking 
 
-## Strategic and creative thinking to integrate quick iteration with planning and budget cycles
+### Strategic and creative thinking to integrate quick iteration with planning and budget cycles
 
-# How to Apply Lean & Lean Startup Practices
+## How to Apply Lean & Lean Startup Practices
 
 Lean emphasizes rapid experimentation driven by customer insight. Its counterintuitive practices – like front-loading feedback into the discovery process – actually have the result of shortening planning cycles. As a formal method, the Lean Startup method consists of three parts:
 
@@ -115,7 +113,7 @@ For the public sector, the [Mission Model Canvas](https://steveblank.com/2016/02
 
 4. Verify or pivot
 
-## Four Steps to Lean
+### Four Steps to Lean
 
 * Step 1: Break down your grand vision into component parts, and sketch out your hypothesis. 
 
@@ -129,31 +127,31 @@ For the public sector, the [Mission Model Canvas](https://steveblank.com/2016/02
 
 Watch Steve Blank’s[ 2 minute video overview](https://videos.files.wordpress.com/6f5VMvrR/what-is-customer-discovery_dvd.mp4) of these four steps.
 
-### Step 1: Break down your grand vision into component parts, and sketch out your hypothesis. 
+#### Step 1: Break down your grand vision into component parts, and sketch out your hypothesis. 
 
 Use the [Mission Model canvas](https://steveblank.com/2016/02/23/the-mission-model-canvas-an-adapted-business-model-canvas-for-mission-driven-organizations/). It’s an adaptation of the business model canvas for mission-driven agencies.  (Read more on the history of how the mission model canvas evolved from the well-known business model canvas, or[ listen](https://soundcloud.com/clearshore/the-mission-model-canvas-an-adapted-business-model-canvas-for-mission-driven-organizations) to a 10-minute podcast on how to understand each box.) 
 
-### Step 2: Test the problem (Customer discovery)
+#### Step 2: Test the problem (Customer discovery)
 
 Customer relationships can be understood as beneficiaries. How does your team get buy-in from all the beneficiaries? This includes not just recipients, but also colleagues in legal, policy, procurement, etc, whose support you may need in terms of funding, mandates, user requests, and so on. Long-term support and maintenance also has to be bought into by the sponsoring organizations. Using the customer discovery process helps to identify the most critical stakeholders to get buy-in from. ([Acumen’s 10 tips for customer discovery in the social impact sector](http://plusacumen.org/blog/10-tips-for-customer-discovery-in-the-social-impact-sector/) also has concrete tips applicable to Federal customer discovery work.)
 
-### Step 3: Test the solution with a pilot (Agile development)
+#### Step 3: Test the solution with a pilot (Agile development)
 
 First, establish what constitutes a successful deployment for your program or operating context. Next, run an experiment, likely a small scale pilot (think "minimum viable product “).
 
-### Step 4: Verify or pivot
+#### Step 4: Verify or pivot
 
 Step back and evaluate feedback received on the pilot. Do you people agree that you’re solving a high value problem? Do you understand the mission model adequately to move into execution and implementation? Decide whether support exists for further iteration on the piloted approach or if course correction is necessary.
 
-# Future States 
+## Future States 
 
 TBD
 
-# Related Policies 
+## Related Policies 
 
 [OMB, 2010 guidance on social media outreach](https://www.whitehouse.gov/sites/default/files/omb/assets/inforeg/SocialMediaGuidance_04072010.pdf) (Relevant for customer/stakeholder discovery by agencies)
 
-# Additional Resources 
+## Additional Resources 
 
 * [Why the Lean Startup Changes Everything](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1) – Harvard Business Review, May 2013
 
@@ -165,7 +163,7 @@ TBD
 
 * [Stanford University’s Entrepreneurship Corner](http://ecorner.stanford.edu/index.html) offers 2000 free videos and podcasts, featuring entrepreneurship and innovation thought leaders
 
-## Resources for Lean development and contracting
+### Resources for Lean development and contracting
 
 * [Digital Services Playbook](http://playbook.cio.gov/) offers private sector best practices to help agencies successfully deliver digital services. 
 
@@ -175,7 +173,7 @@ TBD
 
 "Strong strategic partnerships can be the difference between those technologies that only achieve success in the lab and those that actually break into the marketplace. Two ARPA-E awardees—AutoGrid and APEI—have forged strategic partnerships that have positioned their technologies to achieve major success in the market. This video features remarks from ARPA-E Technology-to-Market Advisor Josh Gould and interviews with technologists at AutoGrid and APEI, who each tell the story of how their company leveraged relationships with strategic partners to broaden their customer base and bring their technology to life."
 
-## Other Lean Resources, recommended by NSF I-Corps:
+### Other Lean Resources, recommended by NSF I-Corps:
 
 [Blank, Steven](http://www.nsf.gov/cgi-bin/good-bye?http://steveblank.com/). *The Four Steps to the Epiphany*. 2005.
 
@@ -209,7 +207,7 @@ This handbook teaches businesses how to create, examine, refine, and implement s
 
 Mark Pincus discusses the rapid product testing and assessment his company uses to gauge consumer interest and to test and improve multiple products simultaneously.
 
-#Innovation Definition: Human-Centered Design Mindset
+## Innovation Definition: Human-Centered Design Mindset
 
 Human-centered Design (HCD) is about solving problems for (wait for it), humans. As [IDEO](http://www.designkit.org/human-centered-design) puts it:
 
@@ -217,7 +215,7 @@ Human-centered Design (HCD) is about solving problems for (wait for it), humans.
 
 Human-centered design consists of three phases. In the Inspiration Phase, you’ll learn directly from the people you’re designing for as you immerse yourself in their lives and come to deeply understand their needs. In the Ideation Phase, you’ll make sense of what you learned, identify opportunities for design, and prototype possible solutions. And in the Implementation Phase, you’ll bring your solution to life, and eventually, to market. And you’ll know that your solution will be a success because you’ve kept the very people you’re looking to serve at the heart of the process.
 
-## Key Terms
+### Key Terms
 
 * **Design thinking: **A human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
 
@@ -225,7 +223,7 @@ Human-centered design consists of three phases. In the Inspiration Phase, you’
 
 * **Prototype**: Quickly created representations of a product, program, or service to test a hypothesis or assumption about the usability and/or functionality of a feature or set of features.
 
-## Why Human-Centered Design?
+### Why Human-Centered Design?
 
 People design things and experiences to influence and shape the world around them. In that sense we are all designers, but we are not necessarily Human-Centered Designers. HCD takes work, a specific skillset, and deeper level of knowledge and intuition to guide practice and produce trustworthy insights. 
 
@@ -249,11 +247,11 @@ In general, HCD sessions:
 
 The best problem solving approaches recognize the power of working across disciplines, learning from people, and considering multiple relevant perspectives--all while embracing reality and the constraints that come with it. 
 
-# How to Implement Human-Centered Design  
+## How to Implement Human-Centered Design  
 
 There are several schools of thought in human-centered design--the Stanford d.school approach, the IDEO Method, and the Google Design Studio Method.
 
-## Stanford d.School Approach
+### Stanford d.School Approach
 
 * Model: [http://dschool.stanford.edu/use-our-methods/](http://dschool.stanford.edu/use-our-methods/) 
 
@@ -265,7 +263,7 @@ There are several schools of thought in human-centered design--the Stanford d.sc
 
     * [Participant Handout](https://dschool.stanford.edu/groups/designresources/wiki/ed894/attachments/6cfe1/TheGiftGivingProjectB%26W2012.pdf)
 
-## The IDEO Method
+### The IDEO Method
 
 The IDEO Model starts with building empathy during the discovery phase, then moves through a flow of divergent and convergent thinking and doing. 
 
@@ -279,7 +277,7 @@ OpenIDEO and +Acumen also run free online courses that are open to the public:
 
 If you want to learn how to facilitate the IDEO Method, there’s a [Facilitator Guide](http://www.designkit.org/resources/7) and a course. 
 
-## The Google Design Studio 
+### The Google Design Studio 
 
 Design Studio is a highly interactive, fast-paced facilitated session following a methodology commonly used in architecture and industrial design, but with some important twists. It has been called the "Iron Chef," of ideation. It can be intense, focused, and chaotic at times, but those lucky enough to have participated understand the power and effectiveness of this tool. It is mostly effective when you’re working on product or technology innovation rather than process or program.
 
@@ -325,7 +323,7 @@ In his book *Sprint*, Jake Knapp provides a DIY guide to all five days of the De
 
 * [Design Studio by Todd Zaki Warfel and WIll Evans](https://vimeo/com/37861987): An offshoot of the charette, an intensive, collaborative, stakeholder meeting for designing, mapping, and planning solutions. Follows the 1) create; 2) pitch; 3) critique method. 
 
-# History of Human-Centered Design
+## History of Human-Centered Design
 
 Human-centered design was popularized in the 1990s by the Standford d.school and the design company IDEO. It was an evolution of participatory and cooperative design, which is built upon various disciplines like anthropology, sociology, and psychology. The [principles of human-centered design](http://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf) are:
 
@@ -341,15 +339,15 @@ Human-centered design was popularized in the 1990s by the Standford d.school and
 
 6. Radical collaboration. Bring together innovators with varied backgrounds and viewpoints. Enable breakthrough insights and solutions to emerge from the diversity.
 
-# Future States 
+## Future States 
 
 TBD
 
-# Related Policies 
+## Related Policies 
 
 TBD
 
-# Additional Resources 
+## Additional Resources 
 
 * [A Brief History of Design Thinking: How Design Thinking Came to ‘Be’](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 

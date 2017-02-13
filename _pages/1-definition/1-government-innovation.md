@@ -3,15 +3,13 @@ title: What is Government Innovation?
 issue: 2
 ---
 
-# What is Government Innovation?
-
 When government works better, lives are improved and civic confidence grows. In order for government to work better, the practices of government must continually improve and evolve. In other words, government must continually innovate. Rapid social and technological changes intensify the imperative of innovation. Addressing unique challenges and opportunities of 21st century, like the governance of emerging technologies and increased global interdependence, will require innovation. This imperative is enhanced by three specific revolutions that are occurring within parallel, and driving forward innovation in the public sector: Data, digital, and design.
 
-# Defining Innovation
+## Defining Innovation
 
 In the most recent update to President Obama’s [Strategy for American Innovation](https://www.whitehouse.gov/sites/default/files/strategy_for_american_innovation_october_2015.pdf) in 2015, the National Economic Council and the White House Office of Science and Technology Policy outlined their definition of innovation:
 
-* "Innovation refers to an idea, embodied in a technology, product, service, or process, which is new and creates value. To be impactful, innovations must also be scalable, not merely one-off novelties."  -- Strategy for American Innovation*
+>"Innovation refers to an idea, embodied in a technology, product, service, or process, which is new and creates value. To be impactful, innovations must also be scalable, not merely one-off novelties."  -- Strategy for American Innovation>
 
 This Strategy focuses on two broad categories of innovation:  
 
