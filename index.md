@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Better Government Through Innovation Toolkit!
 ---
-**Note: Content on this website contains DRAFT reports and articles the information found on this page is DRAFT content for the Better Government Toolkit, and any references or interviews have not been fully vetted by all sources and should not be used as official guidance or direction from the government.**
+**Note: Content on this website contains DRAFT reports and articles for the Better Government Toolkit. Any references or interviews have not been fully vetted by all sources and should not be used as official guidance or direction from the government.**
 
 When government works better, lives are improved and civic confidence grows. In order for government to work better, the practices of government must continually improve and evolve. In other words, government must continually innovate. Rapid social and technological changes intensify the imperative of innovation. Addressing unique challenges and opportunities of 21st century, like the governance of emerging technologies and increased global interdependence, will require innovation. This imperative is enhanced by three specific revolutions that are occurring within parallel, and driving forward innovation in the public sector: Data, digital, and design.
 
